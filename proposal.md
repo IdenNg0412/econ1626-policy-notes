@@ -29,6 +29,18 @@ From a geopolitical perspective, the impact of AI on the labour market varies ac
 
 
 # Policy Options 
+| Policy Option | Effciency | Equity | Feasibility | Limitation/Trade off |
+|----------|----------|----------|----------|----------|
+| Reskilling & Lifelong Learning Programs  | High – improves human capital, labour mobility, and long-term productivity growth  | Moderate to High – supports displaced workers, but access gaps may remain  | Moderate – requires coordination between government, industry, and education providers  | Training does not guarantee employment outcomes  |
+| Wage Insurance & Labour Adjustment Support  | Moderate – reduces transition costs and supports labour mobility  | High – protects vulnerable workers from income shocks  | High – can build on existing welfare systems  | Does not address long-term skill mismatches  |
+| Competition & Data Governance Reform | High – promotes competition, innovation diffusion, and SME participation  | Moderate – indirect benefits for workers through reduced market concentration | Moderate to Low – politically complex and regulatory intensive  | Labour market benefits may emerge slowly  |
+
+## Option 1: Reskilling and Lifelong Learning Plan 
+
+## Option 2: Wage Insurance and Labour Adjustment Support
+
+## Option 3: Competition and Data Governance Reform
+
 
 # Recommended Package & Implementation Plan
 
