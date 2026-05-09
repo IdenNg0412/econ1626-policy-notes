@@ -36,7 +36,8 @@ From a geopolitical perspective, the impact of AI on the labour market varies ac
 | Competition & Data Governance Reform | High – promotes competition, innovation diffusion, and SME participation  | Moderate – indirect benefits for workers through reduced market concentration | Moderate to Low – politically complex and regulatory intensive  | Labour market benefits may emerge slowly  |
 
 ## Option 1: Reskilling and Lifelong Learning Plan 
-
+As AI reshapes skill demands across industries, the first policy option is to expand government-funded reskilling and lifelong learning programs to help workers transition into AI-complementary occupations (Ersanlı et al. 2025). This requires reevaluating existing education frameworks through curriculum and pedagogical reforms in subsidized digital training, micro-credentials, vocational education, and partnerships between industries, universities, and TAFE institutions (Tran, Vo and Le, 2024). The policy also promotes interdisciplinary AI education integrated not only into computer science but also across fields such as healthcare, business, and social sciences to strengthen digital literacy, adaptability, and analytical capabilities across the workforce (Baragas et al. 2024). 
+The rationale for this approach is that improving human capital through reskilling and education programs can help workers adapt to changing labour demands, reduce structural unemployment, and support long-term productivity growth (Ersanlı et al. 2025). However, participation barriers such as time constraints, financial limitations, and unequal institutional resources may reduce policy effectiveness, particularly for disadvantaged workers and underfunded educational institutions (Tran, Vo and Le, 2024).
 ## Option 2: Wage Insurance and Labour Adjustment Support
 
 ## Option 3: Competition and Data Governance Reform
