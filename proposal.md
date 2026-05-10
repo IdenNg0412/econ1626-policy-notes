@@ -38,12 +38,12 @@ From a geopolitical perspective, the impact of AI on the labour market varies ac
 
 
 # Policy Options 
-| Policy Option                                  | Efficiency | Equity        | Feasibility | Key Limitation                                                                               |
-| ---------------------------------------------- | ---------- | ------------- | ----------- | -------------------------------------------------------------------------------------------- |
-| **Reskilling & Lifelong Learning Programs**    | High       | Moderate–High | Moderate    | Unequal access to education and training may limit effectiveness and employment outcomes     |
-| **Wage Insurance & Labour Adjustment Support** | Moderate   | High          | High        | Does not directly address long-term skill mismatches or workforce adaptability               |
-| **Ethical AI Regulation in Workplaces**        | Moderate   | High          | Moderate    | Increased compliance costs may reduce business flexibility and slow technological innovation |
 
+| Policy Option                              | Efficiency | Equity        | Feasibility | Key Limitation                                                                                | Trade-off                                                                                       |
+| ------------------------------------------ | ---------- | ------------- | ----------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Reskilling & Lifelong Learning Programs    | High       | Moderate–High | Moderate    | Unequal access to education and training may reduce participation among disadvantaged workers | Training improves workforce adaptability but does not guarantee employment outcomes             |
+| Wage Insurance & Labour Adjustment Support | Moderate   | High          | High        | May create long-term fiscal pressure on government budgets                                    | Provides short-term income protection but does not directly address structural skill mismatches |
+| Ethical AI Regulation in Workplaces        | Moderate   | High          | Moderate    | Regulatory complexity and compliance costs may burden smaller firms                           | Stronger worker protections may reduce business flexibility and slow AI implementation          |
 
 ## Option 1: Reskilling and Lifelong Learning Plan 
 As AI reshapes skill demands across industries, the first policy option is to expand government-funded reskilling and lifelong learning programs to help workers transition into AI-complementary occupations (Ersanlı et al. 2025). This requires reevaluating existing education frameworks through curriculum and pedagogical reforms in subsidized digital training, micro-credentials, vocational education, and partnerships between industries, universities, and TAFE institutions (Tran, Vo and Le 2024). The policy also promotes interdisciplinary AI education integrated not only into computer science but also across fields such as healthcare, business, and social sciences to strengthen digital literacy, adaptability, and analytical capabilities across the workforce (Baragas et al. 2024). <br>
