@@ -27,7 +27,7 @@ AI represents a hybrid form of innovation, which can function incrementally as a
 ## Employment displacement and transformation 
 <img width="1368" height="1072" alt="Image" src="https://github.com/user-attachments/assets/11aa541c-778b-43bd-b994-8bf662bc1dbc" />
 Figure 4: Share of occupation employment exposed to automation by AI in the US. Source: Goldman Sachs 2026a <br>
-AI-driven automation reduces demand for structured and repetitive occupations such as administrative support, clerical work, and customer services, which are particularly vulnerable because AI systems can perform these tasks faster and at lower cost with computational performance compared to human labour (Azpúrua 2026). At the same time, while AI also creates employment opportunities in technology-related sectors such as software engineering, cybersecurity, and AI governance, these occupations are concentrated among highly skilled workers, meaning that these employment gains may not be fully guaranteed to compensate for losses in lower and middle-skilled workers (Gimbel et al. 2025). Furthermore, rapid shifts in labour market demands often require significant time for workforce adaptation due to skill mismatches and transitional barriers (Wishart-Smith 2024). Therefore, displaced workers from declining occupations may struggle to adapt and transition to emerging roles that require higher levels of digital and analytical capability, contributing to short-term employment, underemployment, and economic anxiety during transition periods (World Economic Forum 2026). These deep-seated anxieties are reflected not only through dystopian popular culture such as “The Terminator” and “Blade Runner”, but also through economic phenomena like the Jevons paradox, where efficiency gains and lower production costs prompt wider adoption of AI-driven labour substitution across industries (Goldman Sachs 2026b; Wishart-Smith 2024).
+AI-driven automation reduces demand for structured and repetitive occupations such as administrative support, clerical work, and customer services, which are particularly vulnerable because AI systems can perform these tasks faster and at lower cost with computational performance compared to human labour (Azpúrua 2026). At the same time, while AI also creates employment opportunities in technology-related sectors such as software engineering, cybersecurity, and AI governance, these occupations are concentrated among highly skilled workers, meaning that these employment gains may not be fully guaranteed to compensate for losses in lower and middle-skilled workers (Gimbel et al. 2025). Furthermore, rapid shifts in labour market demands often require significant time for workforce adaptation due to skill mismatches and transitional barriers (Wishart-Smith 2024). Therefore, displaced workers from declining occupations may struggle to adapt and transition to emerging roles that require higher levels of digital and analytical capability, contributing to short-term employment, underemployment, and economic anxiety during transition periods (Stephany 2026). These deep-seated anxieties are reflected not only through dystopian popular culture such as “The Terminator” and “Blade Runner”, but also through economic phenomena like the Jevons paradox, where efficiency gains and lower production costs prompt wider adoption of AI-driven labour substitution across industries (Goldman Sachs 2026b; Wishart-Smith 2024).
 
 ## AI as the main driver of inequality, wage, and industry
 <img width="1396" height="1008" alt="Image" src="https://github.com/user-attachments/assets/6ddd03f2-ee12-424a-a3b2-c97dcd18fef8" />
@@ -85,3 +85,63 @@ A coordinated policy response is essential because the impacts of AI extend beyo
 
 While the proposed policy package may improve labour market resilience and equity, several implementation risks may affect policy effectiveness that requires a coordinated and adaptive implementation strategy is essential to minimise these risks. Regular policy evaluation and collaboration between government, industry, and educational institutions is essential to improve policy responsiveness and ensure AI-driven economic benefits are distributed more equitably across the labour market.
 # Reference
+AFL-CIO (2025) Artificial Intelligence: Principles to Protect Workers, AFLCIO. AFL-CIO, accessed 8 May 2026. https://aflcio.org/reports/workers-first-ai
+
+Alam A (2026) 'Reshaping work: Navigating the AI-driven labour market,' UNICEF, accessed 8 May 2026. https://www.unicef.org/innocenti/stories/2026-global-outlook-reshaping-work-ai-driven-labour-market
+
+Azpúrua A (2026) Research: How AI is changing the labor Market, Havard Business Review, accessed 8 May 2026. https://hbr.org/2026/03/research-how-ai-is-changing-the-labor-market
+
+Baragas J et al. (2024) 'Leveraging machine learning to uncover key factors influencing satisfaction among free tertiary education recipients in the Philippines,' International Conference on Advanced Communication Technology, pp. 206–210. https://doi.org/10.23919/icact60172.2024.10472000.
+
+Bonney K et al. (2024) 'The impact of AI on the workforce: Tasks versus jobs?,' Economics Letters, 244, p. 111971. https://doi.org/10.1016/j.econlet.2024.111971
+
+Brioscú A et al. (2024), “A new dawn for public employment services: Service delivery in the age of artificial intelligence”, OECD Artificial Intelligence Papers, No. 19, OECD Publishing, Paris, https://doi.org/10.1787/5dc3eb8e-en.
+
+Corrigan J (2025) 'AI monopolies are coming, now’s the time to stop them', Techpolicy Press, accessed 8 May 2026.https://www.techpolicy.press/ai-monopolies-are-coming-nows-the-time-to-stop-them/
+
+Cuofano W (2026) AI Skill Degradation Insurance: Protecting Human Workers from Technological Displacement, FourWeekMBA, accessed 8 May 2026. https://fourweekmba.com/ai-skill-degradation-insurance-protecting-human-workers-from-technological-displacement/
+
+Erne J (2025) 'New insurance pays if AI takes your Job—How parametric policies are creating a safety net for workers', Complete Ai Training, accessed 8 May 2026. https://completeaitraining.com/news/new-insurance-pays-if-ai-takes-your-jobhow-parametric/
+
+Ersanlı C et al. (2025) 'A review of global reskilling and upskilling initiatives in the age of AI,' AI And Ethics, 5(6), pp. 5719–5728. https://doi.org/10.1007/s43681-025-00767-9.
+
+Filippi E, Bannò M and Trento S (2023) 'Automation technologies and their impact on employment: A review, synthesis and future research agenda,' Technological Forecasting and Social Change, 191, p. 122448. https://doi.org/10.1016/j.techfore.2023.122448.
+
+Gimbel M et al. (2025) Evaluating the impact of AI on the labor market: Current state of affairs, The Budget Lab, accessed 8 May 2026. https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs
+
+Goldman Sachs (2026a) 'How will AI affect the US labor market?,' Goldman Sachs, accessed 8 May 2026. https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-us-labor-market
+
+Goldman Sachs (2026b) 'The jobs AI is likely to boost—and those it may disrupt,' Goldman Sachs, accessed 8 May 2026. https://www.goldmansachs.com/insights/articles/the-jobs-ai-is-likely-to-boost-and-those-it-may-disrupt
+
+Grimaldo F (2025) AI augmentation, Aisera website, accessed 8 May 2026. https://aisera.com/blog/ai-augmentation/
+
+Gutsu S and Spitsyna H (2024) 'Labor legislation in the era of artificial intelligence,' in Lecture notes in networks and systems, pp. 252–270. https://doi.org/10.1007/978-3-031-60549-9_20.
+
+Gutsu S et al. (2023) 'Artificial intelligence in Labor Relations: Prospects for Evolution of Labor Laws,' in Lecture notes in networks and systems, pp. 498–507. https://doi.org/10.1007/978-3-031-36201-9_43.
+
+Hagiu A and Wright J (2025) 'Artificial intelligence and competition policy,' International Journal of Industrial Organization, 103, p. 103134. https://doi.org/10.1016/j.ijindorg.2025.103134.
+
+Kelley B and Rogers A (2025) The sound and fury of regulating AI in the workplace, Havard Law School, accessed 8 May 2026. https://journals.law.harvard.edu/jol/2025/12/06/the-sound-and-fury-of-regulating-ai-in-the-workplace/
+
+Lardi K (2025) From automation to augmentation: Essential skills for building AI-ready teams, Unleash.ai website, accessed 8 May 2026. https://www.unleash.ai/artificial-intelligence/from-automation-to-augmentation-essential-skills-for-building-ai-ready-teams/
+
+Majumdar S and Misra B (2026) 'AI in Collective Bargaining and Dispute Resolution,' in Studies in computational intelligence, pp. 101–128. https://doi.org/10.1007/978-3-032-14557-4_4.
+
+OECD (2023) OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market, OECD Publishing, Paris, https://doi.org/10.1787/08785bba-en.
+Parliament of Australia (2025) Potential impact of artificial intelligence (AI) on the Australian workforce, Parliament of Australia website, accessed 8 May 2026. https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/Issues_and_Insights/48th_Parliament/potentialimpactofArtificialIntelligence
+
+Randieri C (2025) Is artificial intelligence disruptive or incremental? Rethinking its role in innovation, Forbes, accessed 8 May 2026. https://www.forbes.com/councils/forbestechcouncil/2025/08/11/is-artificial-intelligence-disruptive-or-incremental-rethinking-its-role-in-innovation/
+
+Reddy A and Roy S (2025) 'What is AI Automation and How Does it Work?', Analytics Insight, accessed 8 May 2026. https://www.analyticsinsight.net/artificial-intelligence/what-is-ai-automation-and-how-does-it-work
+
+Stephany F (2026) These 3 charts show how AI is affecting wages, job quality and hiring decisions, World Economic Forum, accessed 8 May 2026. https://www.weforum.org/stories/2026/02/ai-improving-wages-job-quality/.
+
+The Department of Employment and Workplace Relations [DEWR] (2025) Employment services reform, DEWR website, accessed 8 May 2026. https://www.dewr.gov.au/employment-services-reform
+
+Tran T, Vo A. and Le T (2024) 'High quality universal education create high quality human resources for the construction industry, case in HCMC,' E3S Web of Conferences, 535, p. 03007. https://doi.org/10.1051/e3sconf/202453503007.
+
+Uppili S (2026) AI augmentation: What High-Performing Teams Do Differently, Kanerika website, accessed 8 May 2026. https://kanerika.com/blogs/ai-augmentation/.
+
+Wang B (2025) 'Analysis of artificial intelligence monopoly issue and related solutions,' SHS Web of Conferences, 218, p. 03011. https://doi.org/10.1051/shsconf/202521803011.
+
+Wishart-Smith H (2024) Not so fast: study finds AI job displacement likely substantial, yet gradual, Forbes, accessed 8 May 2026. https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/.
