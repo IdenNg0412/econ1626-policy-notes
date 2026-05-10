@@ -1,5 +1,5 @@
 # Policy notes 
-# ECON1629 by Thien Nhan Nguyen
+# ECON1629 by Thien Nhan Nguyen - S3972179 
 Policy proposal for AI's impact on labour market
 
 # Executive Summary 
