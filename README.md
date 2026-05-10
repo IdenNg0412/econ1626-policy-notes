@@ -52,5 +52,5 @@ The proposal draws upon academic literature, government reports, policy publicat
 ---
 
 ## Author
-Thien Nhan Nguyen - S3972179 
-Prepared for ECON1626 – Artificial Intelligence and the Economy.
+Thien Nhan Nguyen - S3972179 <br>
+Prepared for ECON1626 – Economics of Artificial Intelligence.
