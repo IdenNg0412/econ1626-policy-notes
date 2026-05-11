@@ -83,7 +83,7 @@ A coordinated policy response is essential because the impacts of AI extend beyo
 | Regulatory burden on firms               | Ethical AI regulations may slow AI adoption and increase compliance costs | Introduce phased implementation and simplified compliance support for SMEs         |
 | Fiscal pressure on government            | Long-term funding requirements may strain public budgets                  | Conduct periodic policy evaluations and prioritise targeted funding allocation     |
 
-While the proposed policy package may improve labour market resilience and equity, several implementation risks may affect policy effectiveness that requires a coordinated and adaptive implementation strategy is essential to minimise these risks. Regular policy evaluation and collaboration between government, industry, and educational institutions is essential to improve policy responsiveness and ensure AI-driven economic benefits are distributed more equitably across the labour market.
+While the proposed policy package may improve labour market resilience and equity, several implementation risks may affect policy effectiveness that requires a coordinated and adaptive implementation strategy to minimise these risks. Regular policy evaluation and collaboration between government, industry, and educational institutions is essential to improve policy responsiveness and ensure AI-driven economic benefits are distributed more equitably across the labour market.
 # Reference
 AFL-CIO (2025) Artificial Intelligence: Principles to Protect Workers, AFLCIO. AFL-CIO, accessed 8 May 2026. https://aflcio.org/reports/workers-first-ai
 
