@@ -141,6 +141,7 @@ Lardi K (2025) From automation to augmentation: Essential skills for building AI
 Majumdar S and Misra B (2026) 'AI in Collective Bargaining and Dispute Resolution,' in Studies in computational intelligence, pp. 101–128. https://doi.org/10.1007/978-3-032-14557-4_4.
 
 OECD (2023) OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market, OECD Publishing, Paris, https://doi.org/10.1787/08785bba-en.
+
 Parliament of Australia (2025) Potential impact of artificial intelligence (AI) on the Australian workforce, Parliament of Australia website, accessed 8 May 2026. https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/Issues_and_Insights/48th_Parliament/potentialimpactofArtificialIntelligence
 
 Randieri C (2025) Is artificial intelligence disruptive or incremental? Rethinking its role in innovation, Forbes, accessed 8 May 2026. https://www.forbes.com/councils/forbestechcouncil/2025/08/11/is-artificial-intelligence-disruptive-or-incremental-rethinking-its-role-in-innovation/
